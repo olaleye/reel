@@ -1,0 +1,34 @@
+/*
+Application Name: hcis
+Application URI: http://underscores.me/
+Author: Bamidele Ariwodola
+Author URI: http://decodehead.com/
+Description: My custom theme
+
+*/
+
+/*--------------------------------------------------------------
+# Dashboard 
+--------------------------------------------------------------*/
+
+.info-box-icon{
+	width: 100%;
+}
+
+.info-box-content{
+	padding: 0;
+	margin-left: 0
+}
+
+.info-box-text{
+	padding: 30px;
+}
+.user-block img{
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+.username .posted-time{
+	margin-left: 30px;
+}
+
